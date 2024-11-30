@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "987093157231",
+    "project_id": "flutter-crud94",
+    "storage_bucket": "flutter-crud94.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987093157231:android:c42c0d7f04e3ba81ec149a",
+        "android_client_info": {
+          "package_name": "com.c"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASTFufoivgl35UJ1q3sdMru0ycHpDudv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987093157231:android:f569c5b35c1a383fec149a",
+        "android_client_info": {
+          "package_name": "com.example.cuartap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASTFufoivgl35UJ1q3sdMru0ycHpDudv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987093157231:android:7d02ac19b2949bdaec149a",
+        "android_client_info": {
+          "package_name": "com.example.cuartapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASTFufoivgl35UJ1q3sdMru0ycHpDudv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
